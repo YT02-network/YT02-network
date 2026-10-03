@@ -1,4 +1,4 @@
-# Hi, I'm [Yosef Tomas] 👋
+# Hi, I'm Yosef Tomas 👋
 
 Aspiring IT support / help desk professional with hands-on experience in Windows Server, Active Directory, and troubleshooting.
 
@@ -14,4 +14,4 @@ A Windows Server 2019 / Windows 10 lab with six documented issues: Group Policy 
 Active Directory · Group Policy · DHCP · DNS · Windows Server 2019 · Windows 10 · Command-line troubleshooting (`ipconfig`, `gpresult`, `nslookup`) · Technical documentation
 
 ## Connect with me
-- LinkedIn: [www.linkedin.com/in/yosef-tomas-399556411]
+- LinkedIn: www.linkedin.com/in/yosef-tomas-399556411
