@@ -13,5 +13,11 @@ A Windows Server 2019 / Windows 10 lab with six documented issues: Group Policy 
 ## Skills
 Active Directory · Group Policy · DHCP · DNS · Windows Server 2019 · Windows 10 · Command-line troubleshooting (`ipconfig`, `gpresult`, `nslookup`) · Technical documentation
 
+## Certifications
+- CompTIA Tech+
+- Cisco Certified Support Technician: Networking (CCST)
+- AWS Certified Cloud Practitioner
+- ServiceNow: Welcome to ServiceNow
+
 ## Connect with me
 - LinkedIn: www.linkedin.com/in/yosef-tomas-399556411
